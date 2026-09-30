@@ -1,18 +1,17 @@
-# VPN IP Kyrgyzstan — Dr VPN
+# VPN IP Kyrgyzstan — Fast, Secure VPN for Kyrgyzstan
 
-**VPN IP Kyrgyzstan** is a fast, secure and free VPN for Android. Get a **Kyrgyzstan IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Kyrgyzstan** is a free, open-source, ad-free VPN app for Android, built for users in Kyrgyzstan. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Kyrgyzstan (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_kg_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-kyrgyzstan/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Kyrgyzstan IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Kyrgyzstan, Kyrgyzstan VPN, VPN IP Kyrgyzstan, Kyrgyzstan IP address, free VPN Kyrgyzstan, buy VPN Kyrgyzstan, fast VPN Kyrgyzstan, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Kyrgyzstan, free VPN Kyrgyzstan, fast VPN, VPN IP Kyrgyzstan, Android VPN, unblock websites Kyrgyzstan.</sub>
